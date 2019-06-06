@@ -2,7 +2,7 @@
 """
 Created on Fri Apr 26 19:35:20 2019
 
-@author: 李霄雯
+@author: 李霄雯 部分参考网上已有的代码 非原创
 """
 #coding:utf-8
 import PIL.Image  
@@ -37,8 +37,3 @@ def compressImage(srcPath,dstPath):
 
 if __name__=='__main__':  
     compressImage("D:\\EESM6980project\\retrival-test\\test\\illumination","D:\\EESM6980project\\retrival-test\\test\\znew_try\\illu")
-'''--------------------- 
-作者：踏莎行hyx 
-来源：CSDN 
-原文：https://blog.csdn.net/u012234115/article/details/50248409 
-版权声明：本文为博主原创文章，转载请附上博文链接！'''
