@@ -1,2 +1,2 @@
 # CBIR-pytorch
-CNN_model and image retrieval为核心代码
+CNN_model and retrieval_test为核心代码
